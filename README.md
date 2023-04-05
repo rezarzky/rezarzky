@@ -8,6 +8,7 @@
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="SQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Terminal" src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rezarzky) \
