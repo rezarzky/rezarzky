@@ -1,7 +1,19 @@
 ### Hi there, Reza Here 👋
 
+- 🌱 I’m currently learning computational analytics in public policy areas
+
+#### Languages and Tools:
+<p>
+  <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
+  <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="SQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rezarzky) \
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rezarzky&show_icons=true)
+
+
 
 <!--
 **rezarzky/rezarzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
