@@ -1,6 +1,7 @@
 ### Hi there, Reza Here 👋
 
-- 🌱 I’m currently learning computational analytics in public policy areas
+- 🌱 Computational analytics in public policy areas
+- 💬 Ask me about using data in public sector, AI/ML assurance
 
 #### Languages and Tools:
 <p>
