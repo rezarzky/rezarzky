@@ -13,7 +13,7 @@
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rezarzky) \
-#![Github Stats](https://github-readme-stats.vercel.app/api?username=rezarzky&show_icons=true)
+
 
 
 
